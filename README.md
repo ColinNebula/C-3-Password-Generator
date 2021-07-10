@@ -3,22 +3,22 @@ Colin Nebula
 
 Password Generator Assignment
 
-This webpage will showcase my skills as a full stack web developer.
-This website is ethical, it offers an oppotunity to help disabled people, the search engine optimization is essential in accomplishing that goal along with other exciting features. This webpage is properly geared to reach as many users as possible. It has a lot of features including search engine optimisation, accessibility for people with vision disabilities.
+This is a password generator webpage, it produces a secured password for the user. The user will answer some valid secure password questions before being presented with the secured password. 
 
 Demo Preview 
 
-https://colinnebula.github.io/colin-deployed-portfolio/
+https://colinnebula.github.io/C-3-Password-Generator/
+
+
+Issue
+
+![image](https://user-images.githubusercontent.com/57843842/125169805-d83b7600-e179-11eb-8bdf-1337c82e70d4.png)
+
 
 Table of Content
 
-Portfolio
+Random Password Generator
 
-Work
-
-Resume
-
-About Me
 
 Installatinon With the use of any browser the user can connect to the website and all of the available feature will be at every users finger tips.
 
