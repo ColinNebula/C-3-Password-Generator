@@ -9,7 +9,7 @@ This is a password generator webpage, it produces a secured password for the use
 https://colinnebula.github.io/C-3-Password-Generator/
 
 # Colin Nebula GitHub Repository
-https://github.com/ColinNebula/C-3-Password-Generator
+https://github.com/ColinNebula/C-3-Password-Generator/tree/develop
 
 # Screenshot for password generator
 ![Screenshot-Password-generator](https://user-images.githubusercontent.com/57843842/125207185-e44a3500-e258-11eb-8e2f-5f19a632441a.png)
