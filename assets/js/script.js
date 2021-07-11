@@ -7,7 +7,7 @@ function generatePassword() {
     var allCharacters = [];
     console.log('generate');
   
-    //
+    // Calculation based on the user's choices 
     x = window.prompt("Please Choose a length for your password.");
     if (x < 8 || x > 100) {
       return "Try choosing a number between 8 and 100.";
@@ -16,12 +16,12 @@ function generatePassword() {
       console.log(x);
     }
     else {
-      window.alert("Will display password " + x + " characters in length.");
+      window.alert("Password will be displayed  " + x + " characters in length.");
       console.log(x);
     }
   
     //Prompt the user to create a strong password
-    window.confirm("A strong Password contians uppercase, lowercase, numbers and special characters, Ok?");
+    window.confirm("A strong password contians uppercase, lowercase, numbers and special characters, Ok?");
     lowercase = confirm("Add Lowercase Characters?");
     if (lowercase) {
       var turnToLowercase = alert("Lowercase added.");
@@ -53,6 +53,9 @@ function generatePassword() {
     else {
       alert("Ok, no Special Characters.");
     }
+   // Alert User the password was successfully generated 
+    alert("Here is your Secured Password!");
+    
     // False conditional statement
     if (uppercase === false && lowercase === false && numbers === false && specials === false) {
       return "Select any of the characters on your keybord including numbers and special characters  ";
