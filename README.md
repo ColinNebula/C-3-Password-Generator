@@ -6,7 +6,6 @@ Colin Nebula
 This is a password generator webpage, it produces a secured password for the user. The user will answer some valid secure password questions before being presented with the secured password. 
 
 # Demo Preview 
-
 https://colinnebula.github.io/C-3-Password-Generator/
 
 # Colin Nebula GitHub Repository
@@ -14,6 +13,9 @@ https://github.com/ColinNebula/C-3-Password-Generator
 
 # Screenshot for password generator
 ![Screenshot-Password-generator](https://user-images.githubusercontent.com/57843842/125207185-e44a3500-e258-11eb-8e2f-5f19a632441a.png)
+
+# The Markup
+![03-javascript-homework-demo](https://user-images.githubusercontent.com/57843842/125207867-0a71d400-e25d-11eb-81b8-77301175ea2e.png)
 
 # Table of Contents
 
