@@ -7,7 +7,7 @@ function generatePassword() {
     var allCharacters = [];
     console.log('generate');
   
-    //
+    // Calculations based on details provided by the user
     x = window.prompt("Please Choose a length for your password.");
     if (x < 8 || x > 100) {
       return "Try choosing a number between 8 and 100.";
