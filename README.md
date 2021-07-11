@@ -1,34 +1,44 @@
 # C-3-Password-Generator
 Colin Nebula 
 
-Password Generator Assignment
+# Password Generator Assignment
 
 This is a password generator webpage, it produces a secured password for the user. The user will answer some valid secure password questions before being presented with the secured password. 
 
-Demo Preview 
-
+# Demo Preview 
 https://colinnebula.github.io/C-3-Password-Generator/
 
+# Colin Nebula GitHub Repository
+https://github.com/ColinNebula/C-3-Password-Generator
 
-Issue
+# Screenshot for password generator
+![Screenshot-Password-generator](https://user-images.githubusercontent.com/57843842/125207185-e44a3500-e258-11eb-8e2f-5f19a632441a.png)
 
-![image](https://user-images.githubusercontent.com/57843842/125169805-d83b7600-e179-11eb-8bdf-1337c82e70d4.png)
+# The Markup
+![03-javascript-homework-demo](https://user-images.githubusercontent.com/57843842/125207867-0a71d400-e25d-11eb-81b8-77301175ea2e.png)
+
+# Table of Contents
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
 
 
-Table of Content
+# Installatinon 
+With the use of any browser the user can connect to the website and all of the available feature will be at every users finger tips.
 
-Random Password Generator
+# Usage 
+With the use all of the popular browser. user will click on the button.
+Answer a short series of valid questions to produce a strong secure password.
 
+# Development 
+N/A
 
-Installatinon With the use of any browser the user can connect to the website and all of the available feature will be at every users finger tips.
+# License 
+MIT
 
-Usage With the use all of the popular browser.
-
-Development N/A
-
-License MIT
-
-Contribute
+# Contribute
 Debugging, adding new features
 
 AS AN employee with access to sensitive data
