@@ -1,11 +1,8 @@
-# C-3-Password-Generator
+# Colin Password Generator
 Colin Nebula 
-
-# Password Generator Assignment
-
-This is a password generator webpage, it produces a secured password for the user. The user will answer some valid secure password questions before being presented with the secured password. 
-
-# Demo Preview 
+# Description
+This is a password generator web application, it produces a secured password for the user. The user will answer some valid secure password questions before being presented with the secured password. 
+## Deployed Project
 https://colinnebula.github.io/C-3-Password-Generator/
 
 # Colin Nebula GitHub Repository
@@ -25,30 +22,18 @@ https://github.com/ColinNebula/C-3-Password-Generator/tree/develop
 * [License](#license)
 
 
-# Installatinon 
+# Installation 
 With the use of any browser the user can connect to the website and all of the available feature will be at every users finger tips.
 
 # Usage 
 With the use all of the popular browser. user will click on the button.
 Answer a short series of valid questions to produce a strong secure password.
-
-# Development 
-N/A
-
-# License 
-MIT
-
-# Author
-Colin Nebula
-
-# Contribute
-Debugging, adding new features
-
+## User Story
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
-
-IVEN I need a new, secure password
+## Acceptance Criteria
+GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
 WHEN prompted for password criteria
@@ -63,3 +48,7 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+# License 
+[![license](https://img.shields.io/badge/license-MIT-brightgreen)](https://shields.io)
+# Author
+Colin Nebula
