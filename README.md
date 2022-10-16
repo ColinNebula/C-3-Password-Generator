@@ -1,7 +1,7 @@
 # Colin Password Generator
 Colin Nebula 
 # Description
-This is a password generator web application, it produces a secured password for the user. The user will answer some valid secure password questions before being presented with the secured password. 
+This is a password generator web application, it produces a secured password for the user. The user will answer some valid secure password questions before being presented with the secured password. Password Generator is designed to work on any mobile platform.
 ## Deployed Project
 https://colinnebula.github.io/C-3-Password-Generator/
 
