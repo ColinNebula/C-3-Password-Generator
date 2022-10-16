@@ -38,6 +38,9 @@ N/A
 # License 
 MIT
 
+# Author
+Colin Nebula
+
 # Contribute
 Debugging, adding new features
 
